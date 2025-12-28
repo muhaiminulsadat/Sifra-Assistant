@@ -71,7 +71,8 @@ Sifra-Assistant/
 ├─ .env
 └─ README.md
 
-👤 Author
+## 👤 Author
 
-Md. Muhaiminul Islam Sadat
-BUET, Civil Engineering | AI & ML Enthusiast
+Muhaiminul Islam Sadat
+
+AI & ML Enthusiast
