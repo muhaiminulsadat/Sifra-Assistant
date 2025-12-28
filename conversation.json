@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "message": "HI how are you?"
+  },
+  {
+    "role": "assistant",
+    "message": "Hello! I\u2019m doing well, thank you. How can I help you today?"
+  },
+  {
+    "role": "user",
+    "message": "ok. tell me a joke"
+  },
+  {
+    "role": "assistant",
+    "message": "Sure thing! Why don\u2019t skeletons fight each other?  \n\nBecause they don\u2019t have the guts. \ud83d\ude04"
+  }
+]
